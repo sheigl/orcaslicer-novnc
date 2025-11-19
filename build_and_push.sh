@@ -1,6 +1,6 @@
 #!/bin/bash
   
-image="mikeah/orcaslicer-novnc"  
+image="localhost:5122/orcaslicer-novnc"  
   
 # Set the timestamp
 timestamp=$(date +%Y.%m.%d.%H%M%S)  
